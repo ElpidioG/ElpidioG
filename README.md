@@ -1,5 +1,11 @@
 ### Hi there 👋
+# I'm Elpidio Márquez.
 
+I'm a Software Engineering student. Computer Science is one of my passions as I enjoy designing, building, and developing in different programming languages. Outside of this, I enjoy...
+
+⚽ Playing soccer and watching all the matches I can (Huge fan of FC Barcelona). 
+🏋🏾 Exercising as a way to relieve stress.
+📚 Learning new things everyday.
 <!--
 **ElpidioG/ElpidioG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
