@@ -1,7 +1,7 @@
 ### Hi there 👋
 # I'm Elpidio Márquez.
 
-I'm a Software Engineering student. Computer Science is one of my passions as I enjoy designing, building, and developing in different programming languages. Outside of this, I enjoy...
+I'm a Software Engineering enthusiast. Computer Science is one of my passions as I enjoy designing, building, and developing in different programming languages. Outside of this, I enjoy...
 
 ⚽ Playing soccer and watching all the matches I can (Huge fan of FC Barcelona). 
 
